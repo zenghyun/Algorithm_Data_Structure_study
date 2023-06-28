@@ -14,7 +14,7 @@
 |O(N)|선형 시간(linear time)|
 |O(NlogN)|로그 선형 시간(log-linear time)|
 |O(N<sup>2</sup>)|이차 시간(quadratic time)|
-|O(N<sup>3</sup>)|이차 시간(cubic time)|
+|O(N<sup>3</sup>)|삼차 시간(cubic time)|
 |O(2<sup>N</sup>)|지수 시간(exponential time)|
 
 
