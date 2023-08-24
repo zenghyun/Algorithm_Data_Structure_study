@@ -20,7 +20,7 @@
 
 ### 인접 리스트 (Adjacency List)
 - 인접 리스트(adjacency list)에서는 그래프를 리스트로 표현한다. 
--  <img width="1139" alt="스크린샷 2023-08-24 오후 11 35 40" src="https://github.com/zenghyun/Algorithm_Data_Structure_study/assets/114131063/80cf08ff-cd24-475a-8a83-774fc7361673">
+<img width="1139" alt="스크린샷 2023-08-24 오후 11 35 40" src="https://github.com/zenghyun/Algorithm_Data_Structure_study/assets/114131063/80cf08ff-cd24-475a-8a83-774fc7361673">
   
 ### 인접 리스트 - 무방향 무가중치 그래프
 - 모든 간선이 방향성을 가지지 않는 그래프를 무방향 그래프라고 한다.
@@ -32,7 +32,7 @@
 - 모든 간선이 방향을 가지는 그래프를 방향 그래프라고 한다.
 - 모든 간선에 가중치가 있는 그래프를 가중치 그래프라고 한다.
 - 방향 가중치 그래프가 주어졌을 때 연결되어 있는 상황을 인접 리스트로 출력할 수 있다. 
-- <img width="1165" alt="스크린샷 2023-08-24 오후 11 35 51" src="https://github.com/zenghyun/Algorithm_Data_Structure_study/assets/114131063/7f2d8a1f-e9e8-4962-ad5e-3e57d46b1c1b">
+<img width="1165" alt="스크린샷 2023-08-24 오후 11 35 51" src="https://github.com/zenghyun/Algorithm_Data_Structure_study/assets/114131063/7f2d8a1f-e9e8-4962-ad5e-3e57d46b1c1b">
 
 ### 그래프의 시간 복잡도
 1. 인접 행렬: 모든 정점들의 연결 여부를 저장해 O(V^2)의 공간을 요구한다.
