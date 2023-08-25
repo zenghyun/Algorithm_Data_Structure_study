@@ -20,7 +20,11 @@
   getDigit(12345, 4); // 1
   getDigit(12345, 5); // 0 
   ```
+
+  <br>
 - digitCount(num) - num의 자릿수를 반환합니다.
+
+<br>
 
 ```js
 function digitCount(num) {
@@ -100,7 +104,7 @@ console.log(radixSort([23, 345, 5467, 12, 2345, 9852]));
 ```
 
 
-### Big O of SORT BIG O
+### Big O of Radix Sort 
 
 ```js
     Time Complexity     Time Complexity     Time Complexity     Space Complexity
